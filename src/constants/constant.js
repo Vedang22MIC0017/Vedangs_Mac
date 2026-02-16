@@ -74,29 +74,37 @@ const dockApps = [
   },
 ];
 
-const blogPosts = [
+const certPosts = [
   {
     id: 1,
-    date: "Sep 2, 2025",
+    date: "Dec 2, 2025",
     title:
-      "TypeScript Explained: What It Is, Why It Matters, and How to Master It",
-    image: "/images/blog1.png",
+      "DSA In Java Certificate with Apna College , 1 year course",
+    image: "/images/dsa_cert.png",
     link: "https://jsmastery.com/blog/typescript-explained-what-it-is-why-it-matters-and-how-to-master-it",
   },
   {
     id: 2,
     date: "Aug 28, 2025",
-    title: "The Ultimate Guide to Mastering Three.js for 3D Development",
-    image: "/images/blog2.png",
+    title: "Full Stack Web Developer , Apna College 8 months course ",
+    image: "/images/dsa_cert.png",
     link: "https://jsmastery.com/blog/the-ultimate-guide-to-mastering-three-js-for-3d-development",
   },
   {
     id: 3,
     date: "Aug 15, 2025",
-    title: "The Ultimate Guide to Mastering GSAP Animations",
-    image: "/images/blog3.png",
+    title: "Artificial Intelligence And Machine Learning course , Ongoing",
+    image: "/images/dsa_cert.png",
     link: "https://jsmastery.com/blog/the-ultimate-guide-to-mastering-gsap-animations",
   },
+  // {
+  //   id: 4,
+  //   date: "Aug 15, 2025",
+  //   title: "AWS Skill Builder Certificate , Ongoing",
+  //   image: "/images/dsa_cert.png",
+  //   link: "https://jsmastery.com/blog/the-ultimate-guide-to-mastering-gsap-animations",
+  // },
+  
 ];
 
 const techStack = [
@@ -208,7 +216,7 @@ export {
   navLinks,
   navIcons,
   dockApps,
-  blogPosts,
+  certPosts,
   techStack,
   socials,
   photosLinks,
