@@ -97,13 +97,13 @@ const certPosts = [
     image: "/images/dsa_cert.png",
     link: "https://jsmastery.com/blog/the-ultimate-guide-to-mastering-gsap-animations",
   },
-  {
-    id: 4,
-    date: "Aug 15, 2025",
-    title: "AWS Skill Builder Certificate , Ongoing",
-    image: "/images/dsa_cert.png",
-    link: "https://jsmastery.com/blog/the-ultimate-guide-to-mastering-gsap-animations",
-  },
+  // {
+  //   id: 4,
+  //   date: "Aug 15, 2025",
+  //   title: "AWS Skill Builder Certificate , Ongoing",
+  //   image: "/images/dsa_cert.png",
+  //   link: "https://jsmastery.com/blog/the-ultimate-guide-to-mastering-gsap-animations",
+  // },
   
 ];
 
