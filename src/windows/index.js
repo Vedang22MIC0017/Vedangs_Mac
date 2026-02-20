@@ -5,4 +5,5 @@ import Finder from "./Finder";
 import Text from "./Text";
 import Image from "./Image";
 import Contact from "./Contact";
-export {Terminal,Safari,Resume,Finder,Text,Image,Contact}
+import Home from "#components/Home";
+export {Terminal,Safari,Resume,Finder,Text,Image,Contact,Home}
